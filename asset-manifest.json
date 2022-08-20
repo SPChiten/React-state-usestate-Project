@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://spchiten.github.io/csb-1n8qft/static/css/main.2c6ac9ed.chunk.css",
+    "main.js": "https://spchiten.github.io/csb-1n8qft/static/js/main.f18a966e.chunk.js",
+    "main.js.map": "https://spchiten.github.io/csb-1n8qft/static/js/main.f18a966e.chunk.js.map",
+    "runtime-main.js": "https://spchiten.github.io/csb-1n8qft/static/js/runtime-main.76732866.js",
+    "runtime-main.js.map": "https://spchiten.github.io/csb-1n8qft/static/js/runtime-main.76732866.js.map",
+    "static/js/2.454447a9.chunk.js": "https://spchiten.github.io/csb-1n8qft/static/js/2.454447a9.chunk.js",
+    "static/js/2.454447a9.chunk.js.map": "https://spchiten.github.io/csb-1n8qft/static/js/2.454447a9.chunk.js.map",
+    "index.html": "https://spchiten.github.io/csb-1n8qft/index.html",
+    "static/css/main.2c6ac9ed.chunk.css.map": "https://spchiten.github.io/csb-1n8qft/static/css/main.2c6ac9ed.chunk.css.map",
+    "static/js/2.454447a9.chunk.js.LICENSE.txt": "https://spchiten.github.io/csb-1n8qft/static/js/2.454447a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76732866.js",
+    "static/js/2.454447a9.chunk.js",
+    "static/css/main.2c6ac9ed.chunk.css",
+    "static/js/main.f18a966e.chunk.js"
+  ]
+}
